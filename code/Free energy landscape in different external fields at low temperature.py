@@ -50,5 +50,5 @@ ax.spines['left'].set_position(('data', 0))
 ax.set_xticks([])
 ax.set_yticks([])
 
-plt.savefig('Free energy landscape in different external fields.pdf', dpi=300)
+plt.savefig('Free energy landscape in different external fields at low temperature.pdf', dpi=300)
 plt.show()
